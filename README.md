@@ -1,4 +1,4 @@
-# Don-t-Get-Pregnant-Game
+# Don't Get Pregnant Game
 The game's objective is that you are a human egg cell attempting to avoid getting fertilized by sperm. You need to survive as long as possible until you inevitably get fertilized.
 
 # TitleScreenManager.cs
